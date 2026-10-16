@@ -1,12 +1,27 @@
-- 👋 Hi, I’m @sonali-dev3446
-- 👀 I’m interested in to building seamless web applications by leveraging both front-end and back-end technologies."
-- 🌱 I’m currently learning advance concept in js ...
-- 💞️ I’m looking to collaborate on open source projets that focus on full stack developmemt.  Innovative web development applicatios that immporve user experience and accessibility. ...
-- 📫 How to reach me ...Email : sagrawal3446@gmail.com , Github : sonali-dev3446
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Hi, I'm Sonali Agrawal 👋
+Software Developer | JavaScript | Angular | Node.js
+👀 I'm passionate about building interactive, user-friendly web applications and turning ideas into practical solutions.
+🌱 Currently learning: Advanced JavaScript, asynchronous programming, and full-stack development.
+💞️ I’m looking to collaborate on open source projets that focus on full stack developmemt.  Innovative web development applicatios that immporve user experience and accessibility. ...
+  
+💻 Technologies I'm working with:
 
-<!---
-sonali-dev3446/sonali-dev3446 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Frontend: HTML5, CSS3, JavaScript, Angular
+Backend: Node.js, Express.js
+Database: MongoDB
+Tools: Git, GitHub, VS Code
+
+🎯 Goals:
+
+Strengthen my JavaScript and full-stack development skills.
+Build practical projects and write clean, maintainable code.
+Collaborate on open-source projects and learn from other developers.
+
+📫 Connect with me:
+
+GitHub: @sonali-dev3446
+Email: sagrawal3446@gmail.com
+LinkedIn : https://www.linkedin.com/in/sonali-agrawal-330aa6213/ 
+GitHub: @sonali-dev3446
+
+Email: sagrawal3446@gmail.com
